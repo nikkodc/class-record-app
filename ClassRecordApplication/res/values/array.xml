@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="semester">
+        <item>First Semester</item>
+        <item>Second Semester</item>
+        <item>First Semester (Summer)</item>
+        <item>Second Semester (Summer)</item>
+    </string-array>
+
+    <string-array name="school_year">
+        <item>2010-2011</item>
+        <item>2011-2012</item>
+        <item>2012-2013</item>
+        <item>2013-2014</item>
+        <item>2014-2015</item>
+        <item>2015-2016</item>
+        <item>2016-2017</item>
+        <item>2017-2018</item>
+        <item>2018-2019</item>
+        <item>2019-2020</item>
+    </string-array>
+
+    <string-array name="course">
+        <item>Course</item>
+        <item>ACT</item>
+        <item>BSIT</item>
+        <item>BIT</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Year</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>Section</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+
+    <string-array name="group">
+        <item>Group</item>
+        <item>G1</item>
+        <item>G2</item>
+    </string-array>
+
+</resources>

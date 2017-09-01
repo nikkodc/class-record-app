@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Class Record Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_system_admin">Class Record Application</string>
+    <string name="title_activity_admin">Class Record Application</string>
+    <string name="title_activity_register">Class Record Application</string>
+    <string name="title_activity_view_admin">Class Record Application</string>
+    <string name="title_activity_school_year">Class Record Application</string>
+    <string name="title_activity_section">Class Record Application</string>
+    <string name="title_activity_student">Class Record Application</string>
+    <string name="title_activity_view_student">Class Record Application</string>
+
+</resources>
